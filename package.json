@@ -1,5 +1,5 @@
 {
-  "name": "eslint-prettier-config-react",
+  "name": "eslint-config-prettier-react",
   "version": "0.0.19",
   "description": "ESLint and Prettier Config",
   "keywords": [
@@ -11,7 +11,7 @@
     "prettier"
   ],
   "main": "index.js",
-  "repository": "git@github.com:mifas/eslint-prettier-config-react.git",
+  "repository": "git@github.com:mifas/eslint-config-prettier-react.git",
   "license": "MIT",
   "peerDependencies": {
     "babel-eslint": "^9.0.0",
